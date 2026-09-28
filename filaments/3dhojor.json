@@ -903,7 +903,7 @@
             "fill": "wood"
         },
         {
-            "name": "TPU 95A {color_name}",
+            "name": "{color_name}",
             "material": "TPU-95A",
             "density": 1.24,
             "weights": [
@@ -1069,3 +1069,4 @@
         }
     ]
 }
+
