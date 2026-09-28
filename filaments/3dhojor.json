@@ -934,7 +934,7 @@
                 },
                 {
                     "name": "Grey",
-                    "hex": "808080"
+                    "hex": "A0A4A7"
                 },
                 {
                     "name": "Transparent Red",
@@ -973,7 +973,7 @@
         {
             "name": "{color_name}",
             "material": "ABS+",
-            "density": 1.24,
+            "density": 1.06,
             "weights": [
                 {
                     "weight": 1000,
